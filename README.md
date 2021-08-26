@@ -16,8 +16,8 @@ merko
 -->
 <div>
   <a href="https://github.com/Alex-Martins12">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alex-Martins12&hide=contribs&count_private=true&show_icons=true&theme=tokyonight"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Martins12&langs_count=5&layout=compact&theme=tokyonight"/>
+      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Alex-Martins12&hide=contribs&count_private=true&show_icons=true&theme=tokyonight"/>
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Martins12&langs_count=5&layout=compact&theme=tokyonight"/>
   </a>   
 </div>
 <br>
