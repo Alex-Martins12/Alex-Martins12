@@ -7,7 +7,7 @@
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Martins12&langs_count=5&layout=compact&theme=tokyonight"/>
   </a>   
 </div>
-<h3>I'm a beginner, who recently started programming, and I'm already loving it!</h3>
+<h3>I'm a beginner, who recently started programming, and I'm already loving it! 👨‍💻😄</h3>
 
 <h2>Working with/Learning:</h2>
 <div style="display: inline_block">
