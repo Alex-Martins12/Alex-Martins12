@@ -1,4 +1,4 @@
-# Heyy, I'm Alex, welcome to my profile!
+# Heyy, I'm Alex, welcome to my profile! // Oii, Eu sou o Alex, seja bem-vindo ao meu perfil!
 
 
 <div>
@@ -8,6 +8,7 @@
   </a>   
 </div>
 <h3>I'm a beginner, who recently started programming, and I'm already loving it! 👨‍💻😄</h3>
+<h3>Sou iniciante, comecei a programar recentemente, e já curto demais!</h3>
 
 <h2>Working with/Learning:</h2>
 <div style="display: inline_block">
@@ -19,7 +20,7 @@
 </div>
 
 <hr>
-<h3>Ways to contact me:</h3>
+<h3>Ways to contact me: // Formas de me contatar:</h3>
 <div>
   <a href="mailto:alexoscarmartins1211@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
