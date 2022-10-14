@@ -1,12 +1,13 @@
 # Heyy, I'm Alex, welcome to my profile! // Oii, Eu sou o Alex, seja bem-vindo ao meu perfil!
 
-
+<!---
 <div>
   <a href="https://github.com/Alex-Martins12">
       <img height="140em" src="https://github-readme-stats-alex-martins12.vercel.app/api?username=Alex-Martins12&hide=contribs&count_private=true&show_icons=true&theme=tokyonight"/>
       <img height="140em" src="https://github-readme-stats-alex-martins12.vercel.app/api/top-langs/?username=Alex-Martins12&langs_count=10&layout=compact&theme=tokyonight&count_private=true"/>
   </a>   
 </div>
+--->
 <h3>I'm a beginner, who recently started programming, and I'm already loving it! 👨‍💻😄</h3>
 <h3>Sou iniciante, comecei a programar recentemente, e já curto demais!</h3>
 
